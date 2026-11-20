@@ -23,6 +23,7 @@
         <ul class="nav-links">
             <li class="nav-items"><a href="#">TV</a></li>
             <li class="nav-items"><a href="#">Movies</a></li>
+            <li class="nav-items"><a href="#">Cinemas</a></li>
             <li class="nav-items"><a href="#">Excellent</a></li>
             <li class="nav-items"><a href="#">Premium</a></li>
             <li class="nav-items"><a href="#">Disney+</a></li>
